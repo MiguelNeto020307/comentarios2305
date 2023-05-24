@@ -1,0 +1,33 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+
+.cabeçalho{
+    background-color: #000000;
+}
+
+.Imagem-Logo{
+    width: 18%;
+}
+
+.anime-imagem{
+    width: 18%;
+}
+
+.animes{
+    background-image: linear-gradient(#000000,#00045C);
+    color: white;
+    padding: 10px 0;
+}
+
+.animes-título{
+    padding: 50px;
+}
+
+.foto-anime{
+    width: 500px;
+    padding: 30px;
+}
+
+
